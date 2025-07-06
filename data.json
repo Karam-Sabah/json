@@ -17400,6 +17400,11 @@
               "description": "وصف المحاضرة",
               "url": "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817/1080p/video.m3u8"
             }
+            {
+              "title": "محاضرة 2",
+              "description": "وصف المحاضرة",
+              "url": "https://player.vimeo.com/external/936050657.m3u8?s=711b8b754c0896db9c9206681856ba8d38b5f107&logging=false"
+            }
           ]
         }
       ]
